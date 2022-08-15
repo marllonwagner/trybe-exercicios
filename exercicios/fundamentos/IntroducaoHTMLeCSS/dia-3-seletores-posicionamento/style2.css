@@ -1,0 +1,23 @@
+h1, p {
+    text-align: center;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:active{
+    color: white;
+    font-weight: 800;
+    font-style: italic;
+}
+ol:hover {
+    background-color: blue;
+    transition: 2s;
+}
+
