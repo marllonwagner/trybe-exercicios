@@ -1,0 +1,19 @@
+header, article, nav, footer, section, aside, ul {
+    border: 1px solid red;
+}
+
+td {
+    border: 2px solid blue;
+   
+}
+table {
+    
+    text-align: center;
+    border: 2px solid black;
+}
+
+th {
+    text-transform: uppercase;
+   
+    
+}
