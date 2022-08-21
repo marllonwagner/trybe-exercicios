@@ -8,6 +8,6 @@ for (index  = 0 ; index < numbers.length ; index += 1){
     soma = soma + numbers[index]
 }
 
-console.log(" A soma do Array é : " + soma)
+console.log( " A média aritimética é  : " + (soma) / (numbers.length))
 
 
