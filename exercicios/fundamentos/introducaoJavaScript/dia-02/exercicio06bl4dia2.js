@@ -10,7 +10,7 @@ for (index  = 0 ; index < numbers.length ; index += 1){
    } else if ( numbers[index] % 2 == 0) {
    // nada //
    }else {
-    console.log("nenhum par encontrado")
+    console.log("nenhum impar encontrado")
    }
 }
 console.log("existem : " + numbersImpars.length +  " " + "numeros impares nessa array")
