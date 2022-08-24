@@ -1,9 +1,9 @@
+const factor = 10;
+let newFactor = factor
 
-let factor = 10;
-
-for (let index = 1; index < 10 ; index += 1) {
+for (let index = 1; index < factor ; index += 1) {
     
-    factor = factor * index
+    newFactor = newFactor * index
 }
 
-console.log(factor);
+console.log(newFactor);
